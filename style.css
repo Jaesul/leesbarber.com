@@ -61,9 +61,14 @@ header {
 }
 
 .hours {
-  display: block;
-  width: 50%;
-  margin: 35px auto 0 auto;
+  display: inline-block;
+  width: 40%;
+}
+
+.store-info {
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .barbers img {
